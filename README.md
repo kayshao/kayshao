@@ -47,4 +47,3 @@ I'm a Data Science master's student at UC Berkeley. I spend my time building pro
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kaysha-obrien/])
-[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)]([Your-Portfolio-Link-Or-Email])
